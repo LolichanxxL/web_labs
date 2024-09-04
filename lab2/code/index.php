@@ -1,2 +1,4 @@
 <?php
-echo phpinfo();
+
+require 'task1.php';
+
