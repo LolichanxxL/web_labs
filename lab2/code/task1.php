@@ -9,6 +9,3 @@ $order = &$very_bad_unclear_name;
 $order .= " and some coke";
 
 echo "\nYour order is: $very_bad_unclear_name.";
-
-
-
