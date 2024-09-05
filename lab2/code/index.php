@@ -4,3 +4,4 @@ require 'task1.php';
 require 'task2.php';
 require 'task3.php';
 require 'task4.php';
+require 'task5.php';
