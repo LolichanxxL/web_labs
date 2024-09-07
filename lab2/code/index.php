@@ -11,3 +11,4 @@ require 'task8.php';
 require 'task9.php';
 require 'task10.php';
 require 'task11.php';
+require 'task12.php';
