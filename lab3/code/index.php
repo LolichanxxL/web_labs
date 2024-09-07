@@ -1,2 +1,3 @@
 <?php
-echo phpinfo();
+header('Content-type: text/plain');
+require "task1.php";
