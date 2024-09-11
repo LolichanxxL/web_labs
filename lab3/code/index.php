@@ -1,2 +1,2 @@
 <?php
-require "task2c_input.php";
+require "task3_index.php";
