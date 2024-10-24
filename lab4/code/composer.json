@@ -1,0 +1,17 @@
+{
+    "name": "pavel/code",
+    "autoload": {
+        "psr-4": {
+            "Pavel\\Code\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "LolichanxxL",
+            "email": "paulbobnev@yandex.ru"
+        }
+    ],
+    "require": {
+        "google/apiclient": "^2.0"
+    }
+}
